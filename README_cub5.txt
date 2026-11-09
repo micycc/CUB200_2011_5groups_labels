@@ -1,4 +1,3 @@
-CUB-200-2011 five-group subset
-Groups: warbler, sparrow, gull, woodpecker, hummingbird
-IDs remapped contiguous. Extra attributes: has_group::{group}
-Image paths in images.txt are relative to CUB_200_2011/images/
+Labels-only GitHub pack. Filtered images (4204 jpgs / 71 spp):
+https://drive.google.com/drive/folders/1ybkAXBORUaiRyYlNygv5AkaQiJTjns77
+Do not download the full CUB ~10k dump for the 5-group demo.
